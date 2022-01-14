@@ -15,6 +15,7 @@ body{
 .maincontent{
     margin: 0px;
     padding: 0px;
+    padding-bottom: 260px:
 }
 .aboutus-content{
     margin: 0px;
@@ -26,6 +27,8 @@ body{
     background-color: darkslategrey;
     overflow: hidden;
     color: white;
+    position: fixed;
+    bottom: 0;
 }
 .footer-addr{
     float: left;
@@ -41,5 +44,4 @@ body{
 }
 .footerdivheader{
     font-size: 21px;
-    
 }
