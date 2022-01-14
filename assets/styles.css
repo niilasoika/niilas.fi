@@ -15,6 +15,7 @@ body{
 .maincontent{
     margin: 0px;
     padding: 0px;
+    margin-bottom: -200px;
 }
 .aboutus-content{
     margin: 0px;
@@ -22,22 +23,29 @@ body{
 }
 .outerfooter{
     margin: 0px;
-    padding: 30px;
+    height: 200px;
+    padding: 0px 30px;
     background-color: lightgoldenrodyellow;
     overflow: hidden;
 }
 .footer-addr{
     float: left;
     width: 33%;
+    text-align: left;
 }
 .footer-cont{
     float: left;
-    width: 33%
+    width: 33%;
+    text-align: center;
 }
 .footer-cred{
     float: left;
     width: 33%;
+    text-align: right;
 }
 .footerdivheader{
     font-size: 21px;
+}
+.footerpush{
+    height: 200px;
 }
