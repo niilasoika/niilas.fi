@@ -4,6 +4,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: 'Nunito', sans-serif;
+    background-color: rgb(73, 73, 73);
 }
 .header{
     background-color: rgb(158, 255, 158);
@@ -16,6 +17,7 @@ body{
     margin: 0px;
     padding: 0px;
     margin-bottom: 200px;
+    color: white;
 }
 .aboutus-content{
     margin: 0px;
